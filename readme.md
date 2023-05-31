@@ -5,9 +5,16 @@
 ### Priyanshu Vyas
 ### (vyas.priyanshu23@gmail.com)
 
+## Hosting
 
+The API is hosted on https://priyanshu-vyas-weather-api.onrender.com
+(PS: It sometimes doesn't give the forecast data and send the error response instead, since it is a free hosting service. The works fine in localhost tho..)
 
-## Getting Started
+## Postman Collection
+
+Here is the postman collection: https://www.postman.com/priyanshu01/workspace/priyanshuvyas/example/20534179-650f1980-902e-4980-81e7-a04cb4c5e7bd
+
+## Cloning the Repo
 
 To get started with this project, follow these steps:
 
